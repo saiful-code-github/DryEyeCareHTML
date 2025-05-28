@@ -172,11 +172,11 @@ header .top-header .icons li a{
 }
 .banner .carousel-control-next, .carousel-control-prev {
     position: absolute !important;
-    top: 74%!important;
+    top: 69%!important;
     left: 11% !important;
 }
 .banner .carousel-control-prev{
-    left: 8% !important;
+    left: 2% !important;
 }
 .banner .carousel-control-prev-icon{
     position: relative;
@@ -185,7 +185,7 @@ header .top-header .icons li a{
     position: absolute;
     content: '';
     top: 5px;
-    left: 36px;
+    left: 80px;
     width: 2px;
     height: 22px;
     background-color: #ffffff9e;
