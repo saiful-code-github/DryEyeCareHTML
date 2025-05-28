@@ -750,3 +750,52 @@ footer{
     color: #fff;
 }
 
+/* responsive start here */
+@media (max-width:991px){
+    .top-header{
+        display: none;
+    }
+    .banner h5{
+        font-size: 32px;
+        width: 100%;
+    }
+    .about-text-info{
+        margin-top: 100px;
+    }
+    .about-text-info h2 {
+        font-size: 36px;
+    }
+    .offer-img img {
+    width: 100% !important;
+    }
+    .counter-sec .row .col-sm-6{
+        width: 50%;
+    }
+    .counter-sec {
+    padding: 20px 0; 
+    width: 100%;
+   }
+   .blog h2{
+    font-size: 36px;
+   }
+   .blog-info{
+     bottom: -280px;
+     right: 10px;
+     left: 10px;
+   }
+   .blog-box {
+    margin-bottom: 320px;
+   }
+   .product .owl-theme .owl-nav{
+    display: none;
+   }
+   .middle-footer .col-sm-6{
+    width: 50%;
+   }
+   .health-box .health-img .hel4{
+    display: none;
+   }
+   .offer::before{
+    display: none;
+   }
+}
