@@ -755,6 +755,10 @@ footer{
     .top-header{
         display: none;
     }
+    .banner .carousel-caption {
+    bottom: 95px;
+    width: 96%;
+}
     .banner h5{
         font-size: 32px;
         width: 100%;
@@ -763,10 +767,19 @@ footer{
         margin-top: 100px;
     }
     .about-text-info h2 {
-        font-size: 36px;
+        font-size: 32px;
+    }
+    .ptinfo h2{
+        font-size: 32px;
+    }
+    .offer-info h2{
+        font-size: 32px;
     }
     .offer-img img {
     width: 100% !important;
+    }
+    .counter-sec .container{
+        margin-left: 0 !important;
     }
     .counter-sec .row .col-sm-6{
         width: 50%;
@@ -778,6 +791,9 @@ footer{
    .blog h2{
     font-size: 36px;
    }
+   .blog-box h2{
+    font-size: 20px !important;
+   }
    .blog-info{
      bottom: -280px;
      right: 10px;
@@ -785,6 +801,15 @@ footer{
    }
    .blog-box {
     margin-bottom: 320px;
+   }
+   .last-button button{
+    margin-top: 0 !important;
+   }
+   .health h2{
+    font-size: 32px;
+   }
+   .new-client h2{
+    font-size: 32px;
    }
    .product .owl-theme .owl-nav{
     display: none;
