@@ -823,4 +823,7 @@ footer{
    .offer::before{
     display: none;
    }
+   .middle-footer img{
+    width: 60%;
+   }
 }
